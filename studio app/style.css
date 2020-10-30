@@ -1,0 +1,174 @@
+.heading {
+  text-shadow: 2px 2px #3d3abd;
+  color: white;
+  text-align: center;
+}
+
+header {
+  height: 400px;
+  font-size: 3rem;
+  padding: 10px 0px;
+  background-image: url("./banner.jpg");
+  background-repeat: no-repeat repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background-color: gainsboro;
+}
+
+.float-left {
+  float: left;
+  width: 25%;
+  /* border: 2px solid black; */
+  text-align: center;
+  /* border-radius: 8%; */
+}
+
+.boxList {
+  width: max-content;
+  margin: 2em auto;
+
+}
+
+.musicIcon {
+  height: 10%;
+  width: 10%;
+}
+
+.freeShipping {
+  height: 13%;
+  width: 11%;
+}
+
+.freeTraining {
+  height: 14%;
+  width: 11%;
+}
+
+
+h2 {
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  font-size: 2rem;
+}
+
+h3 {
+  font-weight: bold;
+  color: brown;
+  text-align: center;
+}
+
+ul li {
+  font-family: cursive;
+}
+
+.table {
+  padding: 0px 30px 20px 30px;
+}
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: burlywood;
+  height: 3.5rem;
+}
+
+
+.navbar li {
+  float: right;
+}
+
+ul h1 {
+  display: inline-block;
+  margin-top: 10px;
+  padding-left: 150px;
+  font-size: 30px;
+  font-weight: bolder;
+  text-decoration: unset;
+  color: #111;
+}
+
+
+.navbar li a {
+  display: block;
+  padding: 14px 16px;
+  color: #3d3abd;
+  text-decoration: unset;
+}
+
+.hover {
+  visibility: hidden;
+}
+
+
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin: auto;
+  width: 30%;
+}
+
+th {
+  background-color: #839c89;
+  border: 2px solid black;
+  font-size: 1.5rem;
+}
+
+tr,
+td {
+  border: 2px solid black;
+  padding: 10px;
+  text-align: center;
+  background-color: #ced6d0;
+}
+
+
+.hover:hover {
+  background-color: black;
+  color: white;
+}
+
+.center {
+  margin: auto;
+  width: 70%;
+  padding: 0px 20px 50px 20px;
+}
+
+input,
+select {
+  margin: 10px;
+}
+
+form {
+  padding: 30px;
+  margin-bottom: 30px;
+  border: 1px solid black;
+}
+
+#intro {
+  color: white;
+  font-family: cursive;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  text-align: center;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: burlywood;
+  color: black;
+  text-align: center;
+  font-weight: bolder;
+}
