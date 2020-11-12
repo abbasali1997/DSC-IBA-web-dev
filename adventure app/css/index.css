@@ -47,7 +47,7 @@ a, a:hover{
 
 #footerList li, #socialMedia li{
     padding: 0 2rem;
-    float: left;
+    display: inline;
     list-style: none;
 }
 
