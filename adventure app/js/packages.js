@@ -38,7 +38,7 @@ let currencySymbols = {
         <div class="col-6">
             <img class="img-fluid border rounded w-100" src="https://images.unsplash.com/photo-1545119743-a1bdb8f1f502?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1055&q=80">
         </div>
-        <div class="col-6 d-flex flex-column justify-content-around packageDetails">
+        <div class="col-6 d-flex flex-column justify-content-between p-5 mt-5 mt-lg-0 packageDetails">
             <div class="d-flex justify-content-between">
                 <h1>Turkey</h1>
                 <h5>$1200</h5>
