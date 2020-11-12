@@ -1,0 +1,29 @@
+body{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 80%, rgba(253,209,29,1) 80%, rgba(253,209,29,1) 100%);
+}
+
+#contactContainer{
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+}
+
+.contactInput{
+    background-color: transparent;
+    border: 0;
+    border-bottom: 2px solid grey;
+    border-radius: 0;
+}
+
+#contactDetails{
+    background-color: #323232;
+    color: white;
+    -webkit-box-shadow: 6px 6px 5px 0px rgba(0,0,0,1);
+    -moz-box-shadow: 6px 6px 5px 0px rgba(0,0,0,1);
+    box-shadow: 6px 6px 5px 0px rgba(0,0,0,1);
+}
+
+.contactLogos{
+    font-size: 2.5rem;
+    color: rgba(253,209,29,1);
+}

@@ -1,0 +1,17 @@
+.jumbotron{
+    height: 300px;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 1);
+    background: url('../assets/contactImg.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1 span{
+    font-family: 'Sedgwick Ave';
+}
+
+h1 span span{
+    color: crimson;
+}
